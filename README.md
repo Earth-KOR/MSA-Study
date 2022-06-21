@@ -1,3 +1,2 @@
 # MSA-Study
-MSA 학습을 위한 Repository
-s
+MSA을 위한 코드구조 스터디
